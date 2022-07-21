@@ -14,7 +14,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="application" options="--add-exports java.datatransfer/java.awt=application" />
+      <module name="application" options="" />
     </option>
   </component>
 </project>
