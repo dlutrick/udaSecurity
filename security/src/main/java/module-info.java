@@ -7,4 +7,5 @@ module com.udacity.catpoint.security {
     requires com.google.common;
     requires java.prefs;
     requires com.google.gson;
+    opens com.udacity.catpoint.security.service;
 }
